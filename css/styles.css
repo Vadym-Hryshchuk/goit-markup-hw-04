@@ -285,9 +285,6 @@ body {
 }
 /* Sustomers section */
 
-.section.customers {
-  background-color: rgba(229, 229, 229, 1);
-}
 .customers-list {
   list-style-type: none;
   display: flex;
